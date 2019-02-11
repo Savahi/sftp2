@@ -1,0 +1,10 @@
+﻿  sftp-demo-desktop.c
+e:\development\sftp\sftp-demo-desktop\sftp-demo-desktop.c(17): warning C4013: 'open' undefined; assuming extern returning int
+e:\development\sftp\sftp-demo-desktop\sftp-demo-desktop.c(21): warning C4013: 'write' undefined; assuming extern returning int
+e:\development\sftp\sftp-demo-desktop\sftp-demo-desktop.c(32): warning C4013: 'close' undefined; assuming extern returning int
+  Generating code
+  1 of 5 functions (20.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  sftp-demo-desktop.vcxproj -> E:\development\sftp\Release\sftp-demo-desktop.exe
